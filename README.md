@@ -3,4 +3,4 @@ This repository contains the implementation of the third practice of the course 
 
 Authors: Samuel Martín Morales, Jorge Domínguez González.\
 Course: Administración y Diseño de Bases de Datos.\
-E-mail: alu0101359526@ull.edu.es
+E-mail: alu0101359526@ull.edu.es, alu0101330600@ull.edu.es
