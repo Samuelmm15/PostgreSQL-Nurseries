@@ -9,3 +9,7 @@ PostgreSQL is a powerful, open source object-relational database system with ove
 Authors: Samuel Martín Morales, Jorge Domínguez González.\
 Course: Administración y Diseño de Bases de Datos.\
 E-mail: alu0101359526@ull.edu.es, alu0101330600@ull.edu.es
+
+## Modelo Relacional
+
+![Modelo Relacional - Nurseries](https://github.com/Samuelmm15/PostgreSQL-Nurseries/blob/main/P3.png)
