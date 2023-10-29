@@ -56,15 +56,15 @@ This script contains the implementation of the basic structure of the database t
 
     - **Product table:** This table contains the different products that the nursery sells.\
 
-      ![Product-Table](https://github.com/Samuelmm15/PostgreSQL-Nurseries/assets/72341631/725ac1c0-10fe-4af6-ad4b-9e859d100121)
-
+      ![Assigned-Table](https://github.com/Samuelmm15/PostgreSQL-Nurseries/assets/72341631/d826b349-8a6d-49e8-b4e8-892c2b0293a1)
+      
     - **Buys table:** This table contains the different buys that the customers of the nursery do.\
 
       ![Buy-Table](https://github.com/Samuelmm15/PostgreSQL-Nurseries/assets/72341631/864c4464-7885-4bfd-9407-022748f2953f)
 
     - **Assigned table:** This table contains the different tasks that the employees of the nursery have assigned.\
 
-      ![Assigned-Table](https://github.com/Samuelmm15/PostgreSQL-Nurseries/assets/72341631/d826b349-8a6d-49e8-b4e8-892c2b0293a1)
+      ![Product-Table](https://github.com/Samuelmm15/PostgreSQL-Nurseries/assets/72341631/725ac1c0-10fe-4af6-ad4b-9e859d100121)
 
 
 ## 🔨 How to install PostgreSQL
