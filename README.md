@@ -7,7 +7,7 @@ PostgreSQL is a powerful, open source object-relational database system with ove
 
 ## 📸 Entity-Relationship Model
 
-
+![Entity-Relationship Model](https://github.com/Samuelmm15/PostgreSQL-Nurseries/assets/72341631/9a5dd5ef-9349-41e3-b1dc-505cecbe0070)
 
 ## 📸 Relational Model
 
@@ -27,25 +27,45 @@ This script contains the implementation of the basic structure of the database t
     As we can see in the different images attached below we have the different tables of the database and the data that we have inserted into them.
 
     - **Zones table:** This table contains the different zones of the nursery.\
-      ![Zones table](
+      
+      ![Zone-Table](https://github.com/Samuelmm15/PostgreSQL-Nurseries/assets/72341631/ae0cb22c-039e-4380-ad2d-97673cdccfb6)
+
     - **Nurseries table:** This table contains the different nurseries of the nursery.\
-      ![Nurseries table](
+
+      ![Nursery-Table](https://github.com/Samuelmm15/PostgreSQL-Nurseries/assets/72341631/ee0771f0-04b0-4e07-90a9-0807c64a4601)
+
     - **Company table:** This table contains the different companies that work with the nursery.\
-      ![Company table](
+
+      ![Company-Table](https://github.com/Samuelmm15/PostgreSQL-Nurseries/assets/72341631/b069a0d2-9f76-499a-907c-50072115a0a2)
+
     - **Task table:** This table contains the different tasks that the employees of the nursery can do.\
-      ![Task table](
+
+      ![Task-Table](https://github.com/Samuelmm15/PostgreSQL-Nurseries/assets/72341631/082e4691-d075-4f89-b1b8-b2b03010f42b)
+
     - **Employee table:** This table contains the different employees of the nursery.\
-      ![Employee table](
+
+      ![Employee-Table](https://github.com/Samuelmm15/PostgreSQL-Nurseries/assets/72341631/433fa687-9518-45ab-964e-86a1df94e1e9)
+
     - **Works table:** This table contains the different works that the employees of the nursery do.\
-      ![Works table](
+
+      ![Work-Table](https://github.com/Samuelmm15/PostgreSQL-Nurseries/assets/72341631/50af4222-d1e8-4700-923b-0db62e5347f1)
+
     - **Customer table:** This table contains the different customers of the nursery.\
-      ![Customer table](
+
+      ![Customer-Table](https://github.com/Samuelmm15/PostgreSQL-Nurseries/assets/72341631/db8d5584-826c-4f8c-8cc2-d442004cb6bd)
+
     - **Product table:** This table contains the different products that the nursery sells.\
-      ![Product table](
+
+      ![Product-Table](https://github.com/Samuelmm15/PostgreSQL-Nurseries/assets/72341631/725ac1c0-10fe-4af6-ad4b-9e859d100121)
+
     - **Buys table:** This table contains the different buys that the customers of the nursery do.\
-      ![Buys table](
+
+      ![Buy-Table](https://github.com/Samuelmm15/PostgreSQL-Nurseries/assets/72341631/864c4464-7885-4bfd-9407-022748f2953f)
+
     - **Assigned table:** This table contains the different tasks that the employees of the nursery have assigned.\
-      ![Assigned table]( 
+
+      ![Assigned-Table](https://github.com/Samuelmm15/PostgreSQL-Nurseries/assets/72341631/d826b349-8a6d-49e8-b4e8-892c2b0293a1)
+
 
 ## 🔨 How to install PostgreSQL
 
@@ -124,6 +144,10 @@ Another way to run the script is using the PostgreSQL interactive terminal. To d
    ```bash
    \i <script_name>
    ```
+
+## 💥 Example of executation of the app
+
+https://github.com/Samuelmm15/PostgreSQL-Nurseries/assets/72341631/1c1fbeae-8306-4a45-bf3b-98f1862ed740
 
 ## 📚 Reference
 
